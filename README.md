@@ -1,3 +1,5 @@
 # VibeVoice Dataset Preparer
 
-A tool to prepare datasets for training VibeVoice
+A tool to prepare datasets for training VibeVoice.
+
+Docs coming soon.

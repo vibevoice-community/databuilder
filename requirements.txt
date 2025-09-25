@@ -1,0 +1,11 @@
+transformers
+tqdm
+torchaudio
+torch
+soundfile
+librosa
+nemo_toolkit[asr]
+datasets
+silero-vad
+click
+huggingface_hub

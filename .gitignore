@@ -71,3 +71,8 @@ venv.bak/
 .idea/
 .vscode/
 *.swp
+
+
+# test data
+input/
+output/
